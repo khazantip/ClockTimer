@@ -1,0 +1,20 @@
+.block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(157, 204, 157);
+  width: 100vw;
+  height: 100vh;
+}
+
+.hour {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 20px;
+  background-color: rgb(183, 129, 129);
+  font-family: "Tektur", sans-serif;
+}
